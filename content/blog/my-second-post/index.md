@@ -47,3 +47,6 @@ Now that you are in the "Send/Receive" section, follow these steps to send Bitco
 ## Step 5: Confirm the Transaction
 
 Coinbase will ask you to confirm the transaction via email or SMS. After you confirm, your Bitcoin will be sent, and you’ll receive a notification that the transaction is being processed.
+
+
+---
