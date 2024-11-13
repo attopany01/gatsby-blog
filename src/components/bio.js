@@ -36,7 +36,7 @@ const Bio = () => {
         className="bio-avatar"
         layout="fixed"
         formats={["auto", "webp", "avif"]}
-        src="../images/profile-pic.png"
+        src="https://thumbs.dreamstime.com/b/businessman-portrait-elegant-black-man-business-suit-employee-business-institution-uniform-man-office-worker-business-334423840.jpg"
         width={50}
         height={50}
         quality={95}

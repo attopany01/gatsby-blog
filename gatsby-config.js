@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Cryptocurrency 101`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Jeff Attopany`,
+      summary: `who is a student at Allegheny College.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `A blog explaining the basics of cryptocurrency.`,
+    siteUrl: `https://a01gatsby-blog.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `jeffattopany`,
     },
   },
   plugins: [
