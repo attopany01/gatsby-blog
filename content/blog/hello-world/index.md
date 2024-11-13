@@ -1,231 +1,78 @@
 ---
 title: First post
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+date: "2024-11-13"
+description: "What is cryptocurrency?"
 ---
 
-blaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+# Cryptocurrency 101: What You Need to Know
 
-I'm sure I'll write a lot more interesting things in the future.
+Cryptocurrency is a rapidly growing digital asset class that has taken the financial world by storm. It’s decentralized, secure, and, in many cases, anonymous. But what exactly is cryptocurrency, and how does it work? Let's dive into the basics!
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
+## What is Cryptocurrency?
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+Cryptocurrency is a type of **digital currency** that uses cryptography for security. Unlike traditional currencies like the U.S. dollar, it operates on a **peer-to-peer network**, meaning it doesn't rely on a central authority (like a government or bank) to validate transactions.
 
-![Chinese Salty Egg](./salty_egg.jpg)
+### Key Features:
+- **Decentralization**: No central authority (e.g., government or bank).
+- **Security**: Transactions are secured by cryptographic algorithms.
+- **Transparency**: All transactions are recorded on a public ledger, called a **blockchain**.
+- **Anonymity**: Users can remain anonymous depending on the type of cryptocurrency.
 
-You can also write code blocks here!
+## How Does Cryptocurrency Work?
 
-```js
-const saltyDuckEgg = "chinese preserved food product"
-```
+Cryptocurrencies use a **blockchain** — a distributed ledger technology (DLT) — to record transactions across a network of computers. Every transaction is grouped into a "block," and once validated, the block is added to the "chain."
 
-| Number | Title                                    | Year |
-| :----- | :--------------------------------------- | ---: |
-| 1      | Harry Potter and the Philosopher’s Stone | 2001 |
-| 2      | Harry Potter and the Chamber of Secrets  | 2002 |
-| 3      | Harry Potter and the Prisoner of Azkaban | 2004 |
+### The Blockchain
 
-[View raw (TEST.md)](https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md)
+A blockchain is essentially a digital ledger that is open for anyone to see but secure from tampering. Once a transaction is recorded on the blockchain, it’s nearly impossible to alter, ensuring that all data is transparent and immutable.
 
-This is a paragraph.
+> **Fun Fact:** The first cryptocurrency, **Bitcoin**, was created in 2009 by an anonymous person or group known as **Satoshi Nakamoto**.
 
-    This is a paragraph.
+## Popular Cryptocurrencies
 
-# Header 1
+Here are a few of the most well-known cryptocurrencies:
 
-## Header 2
+| Cryptocurrency | Symbol | Market Rank | Purpose |
+|----------------|--------|-------------|---------|
+| Bitcoin        | BTC    | #1          | Store of value, digital gold |
+| Ethereum       | ETH    | #2          | Smart contracts and decentralized apps (dApps) |
+| Litecoin       | LTC    | #10         | Faster and cheaper transactions than Bitcoin |
+| Cardano        | ADA    | #7          | Focuses on sustainability and scalability |
+| Binance Coin   | BNB    | #4          | Used for transactions on Binance Exchange |
 
-    Header 1
-    ========
+### Popular Cryptocurrency Exchanges
 
-    Header 2
-    --------
+If you’re looking to buy or trade cryptocurrency, you’ll likely use an exchange. Here are some of the top platforms:
 
-# Header 1
+- [Binance](https://www.binance.com)
+- [Coinbase](https://www.coinbase.com)
+- [Kraken](https://www.kraken.com)
 
-## Header 2
+## The Risks of Cryptocurrency
 
-### Header 3
+While cryptocurrencies offer exciting opportunities, they also come with risks:
 
-#### Header 4
+- **Volatility**: Prices can fluctuate wildly within short periods.
+- **Security risks**: Hacking, scams, and loss of private keys can lead to irreversible losses.
+- **Regulatory uncertainty**: Governments are still figuring out how to regulate cryptocurrency.
 
-##### Header 5
+## The Future of Cryptocurrency
 
-###### Header 6
+The future of cryptocurrency is still unfolding. Some predict that cryptocurrencies will revolutionize the financial industry, while others remain skeptical. **Bitcoin**, in particular, has been seen as a **store of value**, similar to gold.
 
-    # Header 1
-    ## Header 2
-    ### Header 3
-    #### Header 4
-    ##### Header 5
-    ###### Header 6
+### What’s Next?
 
-# Header 1
+Cryptocurrencies are evolving rapidly, with new innovations such as **DeFi (Decentralized Finance)** and **NFTs (Non-Fungible Tokens)** gaining popularity.
 
-## Header 2
+## Conclusion
 
-### Header 3
+Cryptocurrency offers many possibilities, but it’s important to understand the risks before diving in. If you’re interested in learning more, here are a few resources to get started:
 
-#### Header 4
+- [Wikipedia Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)
+- [Wikipedia Cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency)
+- [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
+- [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
 
-##### Header 5
-
-###### Header 6
-
-    # Header 1 #
-    ## Header 2 ##
-    ### Header 3 ###
-    #### Header 4 ####
-    ##### Header 5 #####
-    ###### Header 6 ######
-
-> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
-
-    > Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
-
-> ## This is a header.
->
-> 1. This is the first list item.
-> 2. This is the second list item.
->
-> Here's some example code:
->
->     Markdown.generate();
-
-    > ## This is a header.
-    > 1. This is the first list item.
-    > 2. This is the second list item.
-    >
-    > Here's some example code:
-    >
-    >     Markdown.generate();
-
-- Red
-- Green
-- Blue
-
-* Red
-* Green
-* Blue
-
-- Red
-- Green
-- Blue
-
-```markdown
-- Red
-- Green
-- Blue
-
-* Red
-* Green
-* Blue
-
-- Red
-- Green
-- Blue
-```
-
-- `code goes` here in this line
-- **bold** goes here
-
-```markdown
-- `code goes` here in this line
-- **bold** goes here
-```
-
-1. Buy flour and salt
-1. Mix together with water
-1. Bake
-
-```markdown
-1. Buy flour and salt
-1. Mix together with water
-1. Bake
-```
-
-1. `code goes` here in this line
-1. **bold** goes here
-
-```markdown
-1. `code goes` here in this line
-1. **bold** goes here
-```
-
-Paragraph:
-
-    Code
-
-<!-- -->
-
-    Paragraph:
-
-        Code
+![Cryptocurrency](https://cdn.pixabay.com/photo/2021/04/30/16/47/btc-logo-6219386_960_720.png)
 
 ---
-
----
-
----
-
----
-
----
-
-    * * *
-
-    ***
-
-    *****
-
-    - - -
-
-    ---------------------------------------
-
-This is [an example](http://example.com "Example") link.
-
-[This link](http://example.com) has no title attr.
-
-This is [an example][id] reference-style link.
-
-[id]: http://example.com "Optional Title"
-
-    This is [an example](http://example.com "Example") link.
-
-    [This link](http://example.com) has no title attr.
-
-    This is [an example] [id] reference-style link.
-
-    [id]: http://example.com "Optional Title"
-
-_single asterisks_
-
-_single underscores_
-
-**double asterisks**
-
-**double underscores**
-
-    *single asterisks*
-
-    _single underscores_
-
-    **double asterisks**
-
-    __double underscores__
-
-This paragraph has some `code` in it.
-
-    This paragraph has some `code` in it.
-
-![Alt Text](https://via.placeholder.com/200x50 "Image Title")
-
-    ![Alt Text](https://via.placeholder.com/200x50 "Image Title")
